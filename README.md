@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3688&pause=1688&color=F7F7F7&center=true&width=300&height=30&lines=Curiosity+into+Code.)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,go,mongodb,linux,mysql,pnpm,postman,rabbitmq,redis,emotion,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,go,mongodb,linux,mysql,pnpm,postman,rabbitmq,redis,emotion,figma,react,js&theme=light)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangge666888/wangge666888/output/github-snake-dark.svg">
